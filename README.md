@@ -77,7 +77,7 @@ The output consists of a color-coded bar chart where:
 
 
 
-💡 Additional Notes
+# Additional Notes
 
 -- The dataset is hardcoded; no external file (CSV or Excel) is required.
 
