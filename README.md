@@ -12,35 +12,35 @@
 
 # Project Overview
 
-This project uses manually created sample data to illustrate population sizes (in millions) for each country. The bar chart is enhanced with:
+-- This project uses manually created sample data to illustrate population sizes (in millions) for each country. The bar chart is enhanced with:
 
-Distinct colors for each country bar
+-- Distinct colors for each country bar
 
-Exact population values displayed above the bars
+-- Exact population values displayed above the bars
 
-Labeled axes and a meaningful title Grid lines for visual clarity
+-- Labeled axes and a meaningful title Grid lines for visual clarity
 
-This visualization makes it easy to interpret and compare the population of different countries at a glance.
+-- This visualization makes it easy to interpret and compare the population of different countries at a glance.
 
 # Countries Included
 
- India
+-- India
 
- China
+-- China
 
- United States
+-- United States
 
- Indonesia
+-- Indonesia
 
- Pakistan
+-- Pakistan
 
- Nigeria
+-- Nigeria
 
- Brazil
+-- Brazil
 
- Bangladesh
+-- Bangladesh
 
- Russia
+-- Russia
 
  Mexico
 
@@ -48,9 +48,8 @@ This visualization makes it easy to interpret and compare the population of diff
 
 # Tools & Technologies Used
 
- Python – Core programming language
-
- Matplotlib – Visualization library used to generate the bar chart
+-- Python – Core programming language
+-- Matplotlib – Visualization library used to generate the bar chart
 
 
 
@@ -59,29 +58,27 @@ This visualization makes it easy to interpret and compare the population of diff
 
 The output consists of a color-coded bar chart where:
 
- The X-axis lists the countries
+-- The X-axis lists the countries
 
- The Y-axis represents population in millions
+-- The Y-axis represents population in millions
 
- Each bar is labeled with its population value
+-- Each bar is labeled with its population value
 
- Visual enhancements include:
+-- Visual enhancements include:
 
- Customized color scheme
+-- Customized color scheme
 
- Grid lines for better readability
+-- Grid lines for better readability
 
- Rotated X-axis labels for spacing and clarity
+-- Rotated X-axis labels for spacing and clarity
 
 
 
 # Additional Notes
 
- The dataset is hardcoded; no external file (CSV or Excel) is required.
-
- The project runs seamlessly on Google Colab or Jupyter Notebook.
-
- This task introduces fundamental skills in data visualization using Python.
+-- The dataset is hardcoded; no external file (CSV or Excel) is required.
+-- The project runs seamlessly on Google Colab or Jupyter Notebook.
+-- This task introduces fundamental skills in data visualization using Python.
 
 
 
